@@ -1,0 +1,2 @@
+file in write mode ....hi! I am a roy.I am in class. 8
+ File in append mode .....Hi! I am a roy. I am in class. 8
